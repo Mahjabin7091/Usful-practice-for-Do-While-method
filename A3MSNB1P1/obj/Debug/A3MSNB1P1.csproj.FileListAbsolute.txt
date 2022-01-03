@@ -1,0 +1,7 @@
+C:\Users\mahjabin joon\Desktop\Winter2021_Term_1\C#_Prog_1781\project2\A3MSNB1P1\A3MSNB1P1\bin\Debug\A3MSNB1P1.exe.config
+C:\Users\mahjabin joon\Desktop\Winter2021_Term_1\C#_Prog_1781\project2\A3MSNB1P1\A3MSNB1P1\bin\Debug\A3MSNB1P1.exe
+C:\Users\mahjabin joon\Desktop\Winter2021_Term_1\C#_Prog_1781\project2\A3MSNB1P1\A3MSNB1P1\bin\Debug\A3MSNB1P1.pdb
+C:\Users\mahjabin joon\Desktop\Winter2021_Term_1\C#_Prog_1781\project2\A3MSNB1P1\A3MSNB1P1\obj\Debug\A3MSNB1P1.csprojAssemblyReference.cache
+C:\Users\mahjabin joon\Desktop\Winter2021_Term_1\C#_Prog_1781\project2\A3MSNB1P1\A3MSNB1P1\obj\Debug\A3MSNB1P1.csproj.CoreCompileInputs.cache
+C:\Users\mahjabin joon\Desktop\Winter2021_Term_1\C#_Prog_1781\project2\A3MSNB1P1\A3MSNB1P1\obj\Debug\A3MSNB1P1.exe
+C:\Users\mahjabin joon\Desktop\Winter2021_Term_1\C#_Prog_1781\project2\A3MSNB1P1\A3MSNB1P1\obj\Debug\A3MSNB1P1.pdb
